@@ -206,6 +206,7 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-6 text-sm">
             <Link href="/download" className="hover:text-white transition-colors">다운로드 안내</Link>
+            <Link href="/support" className="hover:text-white transition-colors">고객지원</Link>
             <Link href="/privacy" className="hover:text-white transition-colors">개인정보처리방침</Link>
             <Link href="/terms" className="hover:text-white transition-colors">이용약관</Link>
           </div>
