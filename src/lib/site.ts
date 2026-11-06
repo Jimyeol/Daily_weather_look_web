@@ -7,7 +7,7 @@ export const siteConfig = {
   playStoreUrl: "#",
   appStoreUrl: "#",
   contactEmail: "crewoongcrewoong@gmail.com",
-  privacyEffectiveDate: "2026-03-10",
+  privacyEffectiveDate: "2026-11-06",
   termsEffectiveDate: "2026-03-10",
 } as const;
 
